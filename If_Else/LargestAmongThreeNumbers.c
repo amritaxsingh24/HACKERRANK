@@ -13,7 +13,7 @@ Output Format
 Print the largest number among the three integers along with the given message.
 Sample Input 0
 
-5 10 15
+5 10 15 
 Sample Output 0
 
 The largest number is : 15
