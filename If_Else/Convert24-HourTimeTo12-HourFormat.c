@@ -68,34 +68,26 @@ Sample Output 3
 #include <stdlib.h>
 
 int main() {
-    int h,m,convertedH;
-    char* AMPM;
+    int h;
+    int m;
+    int convertedH;
     
-    scanf("%d %d", &h, &m);
+    scanf("%d %d",&h, &m);
     
     if(h == 0){
-        convertedH= 12;
-        AMPM= "AM";
+        h = 12;
+        printf("%02d:%02d AM", h, m);
     }
-    
     else if(h == 12){
-        convertedH= 12;
-        AMPM= "PM";
+        printf("%02d:%02d PM", h, m);
     }
-        
     else if(h > 12){
-        convertedH= h-12; 
-        AMPM= "PM";
+        h = h -12;
+        printf("%02d:%02d PM", h, m);
     }
-    
-    else if(h < 12){
-        convertedH= h;
-        AMPM= "AM";
+    else{
+        printf("%02d:%02d AM", h, m);
     }
-    
-       printf("%02d:%02d %s",convertedH,m,AMPM);
-    
-        
     
     return 0;
 }
