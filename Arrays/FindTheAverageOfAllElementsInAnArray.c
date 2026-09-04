@@ -8,7 +8,7 @@ Input Format
 First line: An integer N, representing the size of the array
 Second line: N space-separated integers
 Constraints
-
+ 
 1 ≤ N ≤ 10⁵  
 −10⁹ ≤ A[i] ≤ 10⁹
 Output Format
