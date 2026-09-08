@@ -2,7 +2,7 @@
 
 Solutions to the HackerRank problems from my college's Peacemaker program — around 120 questions given by my professor, all solved in C during my first semester.
 
-This is basically my practice log, not a tutorial. Some of the earlier solutions are rough because I was still figuring things out, and I haven't gone back to clean them all up.
+This is my first time solving and organizing a set of questions like this, so it's more of a practice log than a tutorial — a record of how I was learning C, one problem at a time.
 
 ## What's inside
 
