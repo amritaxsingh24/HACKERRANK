@@ -12,7 +12,7 @@ The repo is split into folders by topic:
 |---|---|
 | `Basics` | Simple I/O, variables, type conversions |
 | `If_Else` | Conditional logic problems |
-| `SwitchCase` | Switch-case based problems |
+| `SwitchCase` | Switch-case based problems | 
 | `Loops` | For/while loop practice |
 | `Arrays` | Array manipulation |
 | `Numbers` | Number theory type problems (Harshad numbers, etc.) |
