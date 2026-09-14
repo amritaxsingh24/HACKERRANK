@@ -1,4 +1,4 @@
-/*
+/* 
 Write a program to print an isosceles triangle pattern based on the number of rows n provided by the user.
 
 The pattern has the following properties:
