@@ -4,7 +4,7 @@ Solutions to the HackerRank problems from my college's Peacemaker program — ar
 
 This is my first time solving and organizing a set of questions like this, so it's more of a practice log than a tutorial — a record of how I was learning C, one problem at a time.
 
-## What's inside
+## What's inside 
 
 The repo is split into folders by topic:
 
