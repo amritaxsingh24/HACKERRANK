@@ -6,7 +6,7 @@ Input Format
 Single integer.
 
 Constraints
-
+ 
 Input can be positive or negative integer.
 Output should use float division.
 Output Format
