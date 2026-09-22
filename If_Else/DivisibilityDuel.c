@@ -8,7 +8,7 @@ If X is divisible by Z, the output should be "Z outsmarts X!".
 If X is divisible by both Y and Z, the output should be "X defeats all!".
 If X is not divisible by either Y or Z, the output should be "X remains undefeated!".
 Input Format
-
+ 
 A single line containing three integers X, Y, and Z
 
 Constraints
