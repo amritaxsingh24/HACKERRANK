@@ -4,7 +4,7 @@ A shop offers a discount on an item based on a percentage.
 You must compute the final price after applying the discount using:
 
 discountAmount = ( price * percent ) / 100
-
+ 
 discountedPrice = price - discountAmount
 Important Instructions
 
