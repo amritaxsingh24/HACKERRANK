@@ -1,4 +1,4 @@
-/*
+/* 
 You are given the length and width of a rectangle.
 Your task is to calculate and print its area using a separate function, not inside main().
 
